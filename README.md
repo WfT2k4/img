@@ -8,3 +8,6 @@ After git cloning winxp-tc replace the default banner with this one, banner.png
 By the way, if it wasn't obvious already, this ain't official.
 <br>
 If you plan to use this banner for a project please credit me and link to my github!
+<br>
+# To be added
+Rick Astley edition
