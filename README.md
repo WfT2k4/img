@@ -11,3 +11,5 @@ If you plan to use this banner for a project please credit me and link to my git
 <br>
 # To be added
 Rick Astley edition
+# Edit
+it's now gonna be several banners
