@@ -10,4 +10,5 @@ By the way, if it wasn't obvious already, this ain't official.
 If you plan to use this banner for a project please credit me and link to my github!
 <br>
 # To be added
-taskband background to: linear-gradient(180deg, rgba(0,0,0,1) 4%, rgba(133,133,133,0.3) 5%, rgba(111,111,111,0.3) 19%, rgba(84,84,84,0.3) 53%, rgba(61,61,61,0.3) 54%, rgba(41,41,41,0.3) 100%), repeating-linear-gradient(130deg, rgba(252, 210, 0, 1) 0px, rgba(252, 210, 0, 1) 20px, rgba(99, 52, 29, 1) 21px, rgba(99, 52, 29, 1) 40px);
+* taskband background to: `linear-gradient(180deg, rgba(0,0,0,1) 4%, rgba(133,133,133,0.3) 5%, rgba(111,111,111,0.3) 19%, rgba(84,84,84,0.3) 53%, rgba(61,61,61,0.3) 54%, rgba(41,41,41,0.3) 100%), repeating-linear-gradient(130deg, rgba(252, 210, 0, 1) 0px, rgba(252, 210, 0, 1) 20px, rgba(99, 52, 29, 1) 21px, rgba(99, 52, 29, 1) 40px);`
+* modified start btn
